@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Color Highlighter",
+		"EditorConfig",
+		"EditorConfigSnippets",
+		"Emmet",
+		"JSCS-Formatter",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"Stupid Indent",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-flake8",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeServer"
+	],
+	"repositories":
+	[
+		"https://github.com/titoBouzout/Tag.git",
+		"https://github.com/titoBouzout/Tag"
+	]
+}

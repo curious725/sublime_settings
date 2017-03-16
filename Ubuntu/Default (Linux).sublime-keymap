@@ -1,0 +1,5 @@
+[
+    { "keys": ["f1"], "command": "hide_panel", "args": {"panel": "output.exec"} },
+]
+
+
